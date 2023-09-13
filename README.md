@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joris-debug" alt="joris-debug" /></a> </p>
 
-- 🔭 I’m currently working on [a game Project with SDL2](https://github.com/Joris-debug/SDL-Game)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
